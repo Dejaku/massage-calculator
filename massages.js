@@ -12,3 +12,4 @@ var massagesTotal = massagesPerMonth * yearsMassaging
 alert("You have done roughly " + massagesTotal + " massages in " + yearsMassaging + " years");
 
 console.log("You have done roughly " + massagesTotal + " massages in " + yearsMassaging + " years");
+console.log('test');
